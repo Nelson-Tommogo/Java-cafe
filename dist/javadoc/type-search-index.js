@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"classUser"},{"p":"dataaccessobjects","l":"connectionprovider"},{"p":"dataaccessobjects","l":"databaseoperation"},{"p":"project1","l":"Project1"},{"p":"project1","l":"signuppage"},{"p":"dataaccessobjects","l":"tableclass"},{"p":"project1","l":"UserClass"}];updateSearchResults();
